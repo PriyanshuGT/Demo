@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Abcd 
 Efgh
+=======
+ABCD
+AAAA
+>>>>>>> main
